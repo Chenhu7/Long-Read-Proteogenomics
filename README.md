@@ -2,9 +2,7 @@ This Repository contains the complete software and documentation to execute the 
 
 ## Data Flow Summary
 
-![1.drawio](D:\AAA研究生课题项目\1.drawio.png)
-
-
+![Data Flow](https://github.com/Chenhu7/Long-Read-Proteogenomics/blob/main/Data%20Flow.png)
 
 ## Digital Object Identifiers
 
